@@ -6,9 +6,9 @@ color:
   saturation: 0.6426037808414549
   rhythmicContrast: 0.056065067648887634
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
 name: Photo Test Site
