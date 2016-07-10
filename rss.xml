@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Photo Test Site]]></title>
+        <description><![CDATA[Photo Test Site]]></description>
+        <link>https://thegrid.ai/photo-test-site/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jul 2016 09:19:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photo-test-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Top Bartenders Name Their Favorite Drinking Cities]]></title>
+            <description><![CDATA[<article><h1>Top Bartenders Name Their Favorite Drinking Cities</h1><p>These are the best drinking cities, according to some of America's best bartenders, including New York, New Orleans, Portland,&hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ee71e6476c85c57b74ac55e009be08dc7b85537.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/drink/nation/bartenders-best-drinking-cities/food-and-drink</link>
+            <guid isPermaLink="false">b0aeef74-bd33-46f7-acbe-454e4f00ae43</guid>
+            <pubDate>Sun, 10 Jul 2016 09:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why You Need to Love Yourself More]]></title>
+            <description><![CDATA[<article><h1>Why You Need to Love Yourself More</h1><p>I used to believe that love meant putting everyone else and their needs first, before my own. While I do think there is some truth to that, in the sense that being a giving person is one of the ultimate acts of being a loving person, I came to realize that I must give to and love myself first and foremost.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75b6a2a90ce8ffccabb83684f228ad6037de398f.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/sarah-bogdanski/why-you-need-to-love-yourself-more_b_9668778.html?utm_hp_ref=healthy-living</link>
+            <guid isPermaLink="false">c6bb4d0c-efcc-4a99-8043-c940c1ffe290</guid>
+            <pubDate>Sun, 10 Jul 2016 09:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chocolate Skateboards + DQM + Mast Brothers]]></title>
+            <description><![CDATA[<article><h1>Chocolate Skateboards + DQM + Mast Brothers</h1><p>Since its humble beginnings as a sister company to Mike Carroll and Rick Howard's Girl Skateboards, Chocolate has grown into one of the more influential brands in skateboarding's surrounding culture. Now 20 years later, with legends like Gino Iannucci and young gun Elijah Berle on the roster, the company shows no signs of slowing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09adb57c67d7d90ccdac72399f593aaf7970d3c7.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/food-drink/chocolate-skateboards-dqm-mast-brothers-bar</link>
+            <guid isPermaLink="false">0b82ae1f-8572-4797-a4bd-f0e5ed74a70f</guid>
+            <pubDate>Sun, 10 Jul 2016 09:19:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
