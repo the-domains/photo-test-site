@@ -1,0 +1,14 @@
+layout_spectrum: 0.7132380467373878
+typography_spectrum: 0.5441131901461631
+color:
+  brandStrength: 0.556479784892872
+  lightness: 0.3538898900151253
+  saturation: 0.6426037808414549
+  rhythmicContrast: 0.056065067648887634
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Photo Test Site
